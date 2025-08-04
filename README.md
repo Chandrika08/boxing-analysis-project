@@ -98,19 +98,37 @@ For each processed video, the system generates:
 - Specific corrective recommendations
 - Training suggestions
 
+### 3. 🎥 **Final Output Video with Annotations**  
+Includes a screen-recorded demonstration of the 3D analysis visualization, annotated with metrics and movement patterns.
+
+> 🔗 [📺 Watch the annotated analysis videos on Google Drive]([https://drive.google.com/drive/folders/1sop2A5pCaoSMf8jXChmoeynoRwdlSvw_?usp=sharing])
+> 🔗 Colab notebook link: [https://colab.research.google.com/drive/1LiZF3l0KJe5fi1eUjKNc0fQl8NvGWsPF?usp=sharing].
+---
+
 ### Example Output Structure:
 ```
 outputs/
-├── boxing_analysis_3d_video_1.html
-├── boxing_analysis_3d_video_2.html
-├── boxing_analysis_3d_video_3.html
-├── boxing_analysis_3d_video_4.html
-├── boxing_analysis_3d_video_5.html
-├── boxing_feedback_report_video_1.txt
-├── boxing_feedback_report_video_2.txt
-├── boxing_feedback_report_video_3.txt
-├── boxing_feedback_report_video_4.txt
-└── boxing_feedback_report_video_5.txt
+├── reports/
+│   ├── boxing_feedback_report_video_1.txt
+│   ├── boxing_feedback_report_video_2.txt
+│   ├── boxing_feedback_report_video_3.txt
+│   ├── boxing_feedback_report_video_4.txt
+│   └── boxing_feedback_report_video_5.txt
+│
+├── video_outputs/
+│   ├── boxing_analysis_3d_video_1_with_feedback.mp4
+│   ├── boxing_analysis_3d_video_2_with_feedback.mp4
+│   ├── boxing_analysis_3d_video_3_with_feedback.mp4
+│   ├── boxing_analysis_3d_video_4_with_feedback.mp4
+│   └── boxing_analysis_3d_video_5_with_feedback.mp4
+│
+└── visualizations/
+    ├── boxing_analysis_3d_video_1.html
+    ├── boxing_analysis_3d_video_2.html
+    ├── boxing_analysis_3d_video_3.html
+    ├── boxing_analysis_3d_video_4.html
+    └── boxing_analysis_3d_video_5.html
+
 ```
 
 ## 🎯 Algorithm Details
