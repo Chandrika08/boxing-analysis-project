@@ -1,0 +1,32 @@
+
+BOXING PERFORMANCE ANALYSIS REPORT
+================================
+
+OVERALL SCORE: 40.5/100
+
+DETAILED BREAKDOWN:
+------------------
+• Stance Stability: 40.4/100
+• Guard Position: 2.0/100  
+• Punch Form: 75.0/100
+• Defensive Posture: 85.3/100
+• Movement Efficiency: 0.0/100
+• Average Punch Speed: 1.22 units/frame
+
+CORRECTIVE FEEDBACK:
+-------------------
+⚠️ STANCE: Improve foot positioning and weight distribution. Keep feet shoulder-width apart.
+⚠️ GUARD: Keep hands higher to protect your face. Maintain consistent guard height.
+✅ PUNCH FORM: Good technique and execution.
+✅ DEFENSE: Strong defensive positioning.
+⚠️ MOVEMENT: Maintain slight knee bend for better mobility and reaction time.
+
+PUNCH ANALYSIS:
+• Total punches detected: 110
+• Average punch speed: 1.22 units/frame
+
+TRAINING RECOMMENDATIONS:
+• Focus on areas scoring below 70/100
+• Practice shadow boxing for form improvement
+• Work on defensive drills for better posture
+• Strengthen core for better stance stability
